@@ -20,6 +20,8 @@ Choose a real website (like a coffee shop, bookstore, or government site) with a
 
 🛠 Tools Used
 - Figma
+- 🧩📢 You can view my project here
+- https://www.figma.com/design/gAI3SiO2O4hBDuXbv59t34/Untitled?node-id=3-5&t=Wfz5HTOyiHEPkRBt-1
  
 📌 Status
 ✅ Completed  
